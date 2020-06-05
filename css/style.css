@@ -1,0 +1,179 @@
+html, body {
+	margin: 0; padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+.header_font1{
+	margin-left: 10%;
+	margin-top: 2.2%;
+	width: 3%;
+}
+
+.header{
+	background-color: #333332;
+	position: absolute;
+	width: 100%;
+	height: 12%;
+}
+
+.margin_photo{
+	margin-left: 0.5%;
+	margin-right: 3%;
+}
+
+.header_font2{
+	color: white;
+	float: right;
+	margin-top: 1.2%;
+	margin-right: 9%;
+}
+
+.margin-td{
+	width: 15%;
+}
+
+.footer{
+	background-color: #333332;
+	position: absolute;
+  	bottom: 0;
+  	width: 100%;
+  	height: 40%;
+}
+
+.footer_font1{
+	width: 3%;
+	margin-left: 8%;
+	margin-top: 6.2%;
+}
+
+.table-footer{
+	text-align: center;
+	color: white;
+	float: right;
+	margin-top: 6%;
+	font-size: 17px;
+	margin-right: 10%;
+}
+
+.visit-us{
+	background-color: #eda151;
+	padding: 2%;
+	width: 16%;
+	color: white !important;
+}
+
+.margin-td2{
+	width: 6%;
+}
+
+.line-footer{
+	margin-top: 6%;
+}
+
+.line1{
+border-top: 2px solid white;
+width: 2.5%;
+float: left;
+}
+
+.line2{
+border-top: 2px solid white;
+width: 91.5%;
+float: right;
+}
+
+.table-body{
+	text-align: center;
+	color: #333332;
+	float: right;
+	margin-top: 6%;
+	font-size: 17px;
+	margin-right: 10%;
+	margin-top: 8%;
+}
+
+
+.img1{
+	margin-left: 70%;
+	width: 30%;
+	height: 500px;
+	margin-top: -20%;
+
+}
+
+.vertical-vibe{
+margin-top: 16%;
+margin-left: 7.5%;
+}
+
+.welcome{
+	width: 400px;
+	margin-left: 30%;
+	margin-top: -21.8%;
+}
+
+.welcome-h1{
+	font-weight: bold;
+	margin-bottom: 12%;
+}
+
+.visit-us-button{
+	background-color: white;
+	border-color: #eda151;
+	color: #eda151;
+	padding: 2%;
+}
+
+.line-vibe{
+margin-top: -17.6%;
+}
+
+.line3{
+border-top: 2px solid black;
+width: 2.5%;
+float: left;
+}
+
+.line4{
+border-top: 2px solid black;
+width: 25%;
+margin-left: 7.5%;
+float: left;
+}
+
+.our-story{
+	width: 400px;
+	margin-left: 30%;
+	margin-top: 7%;
+	margin-bottom: 15%;
+}
+
+.line-story{
+margin-top: -23.5%;
+}
+
+.eclipse{
+position: absolute;
+margin-left: -41px;
+margin-top: 12px;
+}
+
+.eclipse-table{
+	position: absolute;
+	margin-top: 23%;
+	margin-left: 19%;
+}
+
+.img-cafe{
+	width: 50%;
+	height: 550px;
+	margin-top: 15%;
+	margin-left: -12%;
+	margin-bottom: 1%;
+}
+
+.txt-cafe{
+	font-weight: bold;
+	margin-left: 31%;
+	margin-bottom: 10%;
+}
