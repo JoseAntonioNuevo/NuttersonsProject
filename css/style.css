@@ -108,7 +108,7 @@ margin-left: 7.5%;
 
 .welcome{
 	width: 400px;
-	margin-left: 30%;
+	margin-left: 27%;
 	margin-top: -21.8%;
 }
 
@@ -137,13 +137,13 @@ float: left;
 .line4{
 border-top: 2px solid black;
 width: 25%;
-margin-left: 7.5%;
+margin-left: 4%;
 float: left;
 }
 
 .our-story{
 	width: 400px;
-	margin-left: 30%;
+	margin-left: 27%;
 	margin-top: 7%;
 	margin-bottom: 15%;
 }
@@ -168,7 +168,7 @@ margin-top: 12px;
 	width: 50%;
 	height: 550px;
 	margin-top: 15%;
-	margin-left: -12%;
+	margin-left: -15%;
 	margin-bottom: 1%;
 }
 
@@ -176,4 +176,119 @@ margin-top: 12px;
 	font-weight: bold;
 	margin-left: 31%;
 	margin-bottom: 10%;
+}
+
+.eclipse-cafe{
+	margin-left: -8%;
+}
+
+.black-div{
+	background-color: #333332;
+	padding: 5%;
+	width: 66%;
+	margin-left: 24%;
+	position: absolute;
+	z-index: -1;
+	margin-bottom: 20%;
+}
+
+.black-div-p{
+	color: white;
+	width: 63%;
+}
+
+.black-div-p-form{
+	margin-left: 13%;
+}
+
+.black-div-form{
+margin-top: 5%;
+}
+
+input{
+	margin: 1.5%;
+	margin-left: 0%;
+	height: 40px;
+	width: 45.2%;
+	margin-right: 3.2%;
+}
+
+input.text-area{
+	height: 200px;
+	width: 95%;
+	margin-right: 0%;
+}
+
+input.black-div-submit{
+	width: 6%;
+	margin-left: 90%;
+	height: 35px;
+}
+
+input::-webkit-input-placeholder {
+  color: #333332;
+}
+
+.book-div{
+	background-color: #eda151;
+	margin-top: 16.5%;
+	z-index: 1;
+	width: 32%;
+}
+
+.book{
+	margin-left: 32%;
+	margin-top: 35%;
+	height: 350px;
+}
+
+.our-values{
+	margin-top: 13%;
+}
+
+.quality-coffee{
+	text-align: center;
+	margin-top: 30.5%;
+	margin-bottom: 20%;
+	color: #eda151;
+	width: 15%;
+	padding: 2%;
+	margin-left: 38.5%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #eda151;
+	opacity: 0.8;
+	border-radius: 10px;
+	height: 500px;
+	width: 18%;
+}
+
+.quality-coffee-p{
+	margin-top: 15%;
+}
+
+.quality-coffee-h1{
+	font-weight: bold;
+	opacity: 1 !important;
+	margin-bottom: 15%;
+	margin-top: 16%;
+}
+
+.coffee-h1{
+	margin-top: 33% !important;
+}
+
+.coffee2{
+	height: 400px !important;
+	color: #333332 !important; 
+	border-color: #333332 !important;
+	float: left;
+	margin-left: -25%;
+	margin-top: 18%;
+}
+
+.coffee3{
+	float: right !important;
+	margin-right: 7%;
+	margin-top: -50%;
 }
